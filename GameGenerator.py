@@ -20,7 +20,7 @@ QR codes
 Borders around cells so you know where to cut!
 Enable Re-sizing of text size if over a certain number of characters!
 
-Part 2 or requirements
+Part 2 of requirements
 """
 
 #Imports
