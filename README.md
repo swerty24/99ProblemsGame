@@ -7,13 +7,13 @@
 -   Have Fun and engaging discussions with all players
 -   Discover practical solutions to the worlds problems for sharing and developing further
 
-Making the Card
+Making the Cards
 ---------------
 
 -   Print the latest version of the PDF on 8.5x11 sheets of card stock paper. A heavy weight paper will increase the durability and improve game play and card shuffling. *Optional* print pure red on one side of the paper for back of 'problem' cards.
 
 Play the Game
--------------
+---------------
 
 In a similar style to cards against humanity and apples to apples. The game has multiple rounds for each player to take a turn going first. But here, the cards played are not anonymous, instead they are explained and provided justification and fruitful conversation.
 
