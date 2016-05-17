@@ -36,4 +36,4 @@ Second, each player takes turns sharing their best solution card combined with t
 
 <!-- -->
 
--   Create your own rules. Inform the 99 Problems community of what you changed and how the game
+-   Create your own rules. Inform the 99 Problems community of what you changed and how the game improved
