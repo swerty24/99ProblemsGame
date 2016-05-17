@@ -11,13 +11,14 @@ Making the Cards
 ---------------
 
 -   Print the latest version of the PDF on 8.5x11 sheets of card stock paper. A heavy weight paper will increase the durability and improve game play and card shuffling. *Optional* print pure red on one side of the paper for back of 'problem' cards.
+-   Cut the cards into individual problem and solution cards
 
 Play the Game
 ---------------
 
-In a similar style to cards against humanity and apples to apples. The game has multiple rounds for each player to take a turn going first. But here, the cards played are not anonymous, instead they are explained and provided justification and fruitful conversation.
+In a similar style to cards against humanity and apples to apples. The game has multiple rounds for each player to take a turn going first. But here, the cards played are not anonymous, instead they are explained and provided justification in hopes of fruitful conversation and societal discovery.
 
-To Start, deal the cards ~ 11 white solution cards per person. Create a stack of problem cards, turn one over to start the round. The person who did not want to play the game the most, the player on their left plays the first solution card and game continues clockwise from there.
+To Start, deal the cards ~ 11 white solution cards per person. Create a stack of problem cards, turn the top card over to start the round. The person who did not want to play the game the most, the player on their left plays the first solution card and game continues clockwise from there.
 
 First, each player uses a best guess solution white “solution” card combined with creativity to solve the current red problem card.
 
