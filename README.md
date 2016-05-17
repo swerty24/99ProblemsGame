@@ -1,7 +1,7 @@
 99 Problems Game
 ================
 
-99 Problems is a game to attempt to solve real world problems in a fun game format similar to [Cards Against Humanity](https://cardsagainsthumanity.com/). Two sets of cards are broken down into 'problem cards' and 'solution cards'. The game is 100% open source and allowed for change and modification in whatever way seen applicable.
+99 Problems is a open source ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) card game to attempt to solve real world problems in a fun game format similar to [Cards Against Humanity](https://cardsagainsthumanity.com/). Two sets of cards are broken down into 'problem cards' and 'solution cards'. The game is 100% open source and allowed for change and modification in whatever way seen applicable.
 
 -   The game forces creative thinking and problem solving
 -   Have Fun and engaging discussions with all players
