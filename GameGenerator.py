@@ -12,6 +12,8 @@ TODO:
 Modify for length of problems for both Row's and Columns.
 Determine the length of problems for a 4 column Sheet.
 Determine max characters at each font size. To auto-scale text size in cell.
+Output a problems and solutions sheet. With RED on the back of the problems card for printing on both sides.
+Make Squares bigger
 QR codes
 Print sheet and see how big each game piece is
 
